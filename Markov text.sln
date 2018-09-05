@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markov text", "Markov text\Markov text.csproj", "{BFCE68C2-9856-4F70-8FCE-40ADBAD5ACFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFCE68C2-9856-4F70-8FCE-40ADBAD5ACFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCE68C2-9856-4F70-8FCE-40ADBAD5ACFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCE68C2-9856-4F70-8FCE-40ADBAD5ACFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCE68C2-9856-4F70-8FCE-40ADBAD5ACFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F42731A-9727-4928-B5E2-885D97ABB7E8}
+	EndGlobalSection
+EndGlobal
