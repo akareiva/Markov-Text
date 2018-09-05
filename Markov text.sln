@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BB4225F9-27DC-4233-AC85-2FD9879C85EB}"
 	ProjectSection(SolutionItems) = preProject
 		README.txt = README.txt
+		..\..\..\OneDrive\Desktop\words_alpha.txt = ..\..\..\OneDrive\Desktop\words_alpha.txt
 	EndProjectSection
 EndProject
 Global
